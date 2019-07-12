@@ -3,12 +3,13 @@
   <groupId>com.tapque</groupId>
   <artifactId>ads</artifactId>
   <versioning>
-    <release>1.0.2</release>
+    <release>1.0.5</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
+      <version>1.0.5</version>
     </versions>
-    <lastUpdated>20190712034538</lastUpdated>
+    <lastUpdated>20190712053935</lastUpdated>
   </versioning>
 </metadata>
