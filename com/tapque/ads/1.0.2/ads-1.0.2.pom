@@ -8,6 +8,12 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.tapque</groupId>
+      <artifactId>analytics</artifactId>
+      <version>1.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>androidx.multidex</groupId>
       <artifactId>multidex</artifactId>
       <version>2.0.1</version>
@@ -29,42 +35,6 @@
           <groupId>*</groupId>
         </exclusion>
       </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.facebook.android</groupId>
-      <artifactId>facebook-android-sdk</artifactId>
-      <version>5.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.adjust.sdk</groupId>
-      <artifactId>adjust-android</artifactId>
-      <version>4.18.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.adjust.sdk</groupId>
-      <artifactId>adjust-android-imei</artifactId>
-      <version>4.18.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.installreferrer</groupId>
-      <artifactId>installreferrer</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.thinking.analyselibrary</groupId>
-      <artifactId>ThinkingAnalyticsSDK</artifactId>
-      <version>1.1.7</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.firebase</groupId>
-      <artifactId>firebase-core</artifactId>
-      <version>16.0.8</version>
-      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.google.android.gms</groupId>
@@ -130,37 +100,6 @@
       <groupId>com.mopub.mediation</groupId>
       <artifactId>ironsource</artifactId>
       <version>6.8.4.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.tapjoy</groupId>
-      <artifactId>tapjoy-android-sdk</artifactId>
-      <version>12.2.1</version>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.mopub.mediation</groupId>
-      <artifactId>tapjoy</artifactId>
-      <version>12.2.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.applovin</groupId>
-      <artifactId>applovin-sdk</artifactId>
-      <version>9.7.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.mopub.mediation</groupId>
-      <artifactId>applovin</artifactId>
-      <version>9.7.1.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
