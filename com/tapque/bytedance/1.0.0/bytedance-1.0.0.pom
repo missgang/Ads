@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.tapque</groupId>
+  <artifactId>bytedance</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>pl.droidsonroids.gif</groupId>
+      <artifactId>android-gif-drawable</artifactId>
+      <version>1.2.6</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.mopub</groupId>
+      <artifactId>mopub-sdk</artifactId>
+      <version>5.7.1</version>
+      <type>aar</type>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>libAvid-mopub</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>moat-mobile-app-kit</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+  </dependencies>
+</project>
