@@ -3,7 +3,7 @@
   <groupId>com.tapque</groupId>
   <artifactId>analytics_cn</artifactId>
   <versioning>
-    <release>1.3.3.3</release>
+    <release>1.3.3.4</release>
     <versions>
       <version>1.3.0</version>
       <version>1.5.0</version>
@@ -12,7 +12,8 @@
       <version>1.3.0.1</version>
       <version>1.3.0.2</version>
       <version>1.3.3.3</version>
+      <version>1.3.3.4</version>
     </versions>
-    <lastUpdated>20190927035431</lastUpdated>
+    <lastUpdated>20190927054508</lastUpdated>
   </versioning>
 </metadata>
