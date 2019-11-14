@@ -3,14 +3,15 @@
   <groupId>com.kksdk</groupId>
   <artifactId>laya_sigmob</artifactId>
   <versioning>
-    <release>0.3.1</release>
+    <release>0.3.3</release>
     <versions>
       <version>0.0.8</version>
       <version>0.0.9</version>
       <version>0.2.2</version>
       <version>0.3.0</version>
       <version>0.3.1</version>
+      <version>0.3.3</version>
     </versions>
-    <lastUpdated>20191114030920</lastUpdated>
+    <lastUpdated>20191114132531</lastUpdated>
   </versioning>
 </metadata>
