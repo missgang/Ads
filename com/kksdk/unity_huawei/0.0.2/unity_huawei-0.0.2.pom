@@ -10,7 +10,13 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>unity_ads</artifactId>
-      <version>0.0.7</version>
+      <version>0.1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.7.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
