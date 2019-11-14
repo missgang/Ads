@@ -9,8 +9,8 @@
   <dependencies>
     <dependency>
       <groupId>com.kksdk</groupId>
-      <artifactId>unity_ads</artifactId>
-      <version>0.0.3.1</version>
+      <artifactId>laya_ads</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
