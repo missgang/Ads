@@ -3,14 +3,15 @@
   <groupId>com.kksdk</groupId>
   <artifactId>laya_4399</artifactId>
   <versioning>
-    <release>1.0.4</release>
+    <release>1.0.5</release>
     <versions>
       <version>0.0.8</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
+      <version>1.0.5</version>
     </versions>
-    <lastUpdated>20191114035114</lastUpdated>
+    <lastUpdated>20191126085403</lastUpdated>
   </versioning>
 </metadata>
