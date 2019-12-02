@@ -3,10 +3,11 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_byteDance</artifactId>
   <versioning>
-    <release>0.0.3</release>
+    <release>0.0.3.1</release>
     <versions>
       <version>0.0.3</version>
+      <version>0.0.3.1</version>
     </versions>
-    <lastUpdated>20191202080642</lastUpdated>
+    <lastUpdated>20191202081752</lastUpdated>
   </versioning>
 </metadata>
