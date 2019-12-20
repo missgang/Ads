@@ -3,10 +3,11 @@
   <groupId>com.kksdk</groupId>
   <artifactId>analytics_T</artifactId>
   <versioning>
-    <release>0.2.0</release>
+    <release>0.2.1</release>
     <versions>
       <version>0.2.0</version>
+      <version>0.2.1</version>
     </versions>
-    <lastUpdated>20191206021442</lastUpdated>
+    <lastUpdated>20191220032959</lastUpdated>
   </versioning>
 </metadata>
