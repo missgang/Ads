@@ -3,10 +3,12 @@
   <groupId>com.kksdk</groupId>
   <artifactId>laya_ads_AT</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.1.2</release>
     <versions>
       <version>1.1.0</version>
+      <version>1.1.1</version>
+      <version>1.1.2</version>
     </versions>
-    <lastUpdated>20191206024651</lastUpdated>
+    <lastUpdated>20191220031731</lastUpdated>
   </versioning>
 </metadata>
