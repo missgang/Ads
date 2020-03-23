@@ -3,11 +3,12 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_ads_AT_test</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20200323032958</lastUpdated>
+    <lastUpdated>20200323085124</lastUpdated>
   </versioning>
 </metadata>
