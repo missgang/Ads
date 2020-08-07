@@ -3,11 +3,12 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_target</artifactId>
   <versioning>
-    <release>1.1.6</release>
+    <release>1.1.7</release>
     <versions>
       <version>1.1.5</version>
       <version>1.1.6</version>
+      <version>1.1.7</version>
     </versions>
-    <lastUpdated>20200806080528</lastUpdated>
+    <lastUpdated>20200807074925</lastUpdated>
   </versioning>
 </metadata>
