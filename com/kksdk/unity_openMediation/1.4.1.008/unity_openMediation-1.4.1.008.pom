@@ -52,7 +52,7 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>om_applovin</artifactId>
-      <version>1.2.8</version>
+      <version>1.2.8.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -100,6 +100,12 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>om_fyber</artifactId>
+      <version>1.2.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.kksdk</groupId>
+      <artifactId>om_adc</artifactId>
       <version>1.2.8</version>
       <scope>compile</scope>
     </dependency>
