@@ -3,12 +3,13 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_startapp</artifactId>
   <versioning>
-    <release>1.2.9.2</release>
+    <release>1.3.0</release>
     <versions>
       <version>1.2.9</version>
       <version>1.2.9.1</version>
       <version>1.2.9.2</version>
+      <version>1.3.0</version>
     </versions>
-    <lastUpdated>20201029063158</lastUpdated>
+    <lastUpdated>20201117073727</lastUpdated>
   </versioning>
 </metadata>
