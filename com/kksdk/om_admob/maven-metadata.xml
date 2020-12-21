@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_admob</artifactId>
   <versioning>
-    <release>1.3.3</release>
+    <release>1.3.3.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -30,7 +30,8 @@
       <version>1.3.0</version>
       <version>1.3.2</version>
       <version>1.3.3</version>
+      <version>1.3.3.1</version>
     </versions>
-    <lastUpdated>20201217082751</lastUpdated>
+    <lastUpdated>20201221100720</lastUpdated>
   </versioning>
 </metadata>
