@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_om_cn</artifactId>
   <versioning>
-    <release>1.5.90.53.3</release>
+    <release>1.5.90.53.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.5.1</version>
@@ -74,7 +74,8 @@
       <version>1.6.2.52</version>
       <version>1.5.90.53.2</version>
       <version>1.5.90.53.3</version>
+      <version>1.5.90.53.4</version>
     </versions>
-    <lastUpdated>20210310081114</lastUpdated>
+    <lastUpdated>20210310104544</lastUpdated>
   </versioning>
 </metadata>
