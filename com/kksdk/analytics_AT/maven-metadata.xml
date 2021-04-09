@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>analytics_AT</artifactId>
   <versioning>
-    <release>1.2.5.96</release>
+    <release>1.2.5.97</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -59,7 +59,8 @@
       <version>1.2.5.94</version>
       <version>1.2.5.95</version>
       <version>1.2.5.96</version>
+      <version>1.2.5.97</version>
     </versions>
-    <lastUpdated>20210409022430</lastUpdated>
+    <lastUpdated>20210409025257</lastUpdated>
   </versioning>
 </metadata>
