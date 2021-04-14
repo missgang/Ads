@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_sigmob</artifactId>
   <versioning>
-    <release>1.7.0</release>
+    <release>1.7.1</release>
     <versions>
       <version>1.2.3</version>
       <version>1.2.6</version>
@@ -32,7 +32,8 @@
       <version>1.6.5.6</version>
       <version>1.6.5.53</version>
       <version>1.7.0</version>
+      <version>1.7.1</version>
     </versions>
-    <lastUpdated>20210412063741</lastUpdated>
+    <lastUpdated>20210414030521</lastUpdated>
   </versioning>
 </metadata>
