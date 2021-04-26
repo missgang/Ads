@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>analytics_AT</artifactId>
-      <version>1.3.2</version>
+      <version>1.3.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
