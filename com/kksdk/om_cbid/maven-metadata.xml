@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_cbid</artifactId>
   <versioning>
-    <release>1.7.1</release>
+    <release>1.7.2</release>
     <versions>
       <version>1.2.5</version>
       <version>1.2.6</version>
@@ -18,7 +18,8 @@
       <version>1.6.1</version>
       <version>1.6.5</version>
       <version>1.7.1</version>
+      <version>1.7.2</version>
     </versions>
-    <lastUpdated>20210412030132</lastUpdated>
+    <lastUpdated>20210512082030</lastUpdated>
   </versioning>
 </metadata>
