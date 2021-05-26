@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_tencent</artifactId>
   <versioning>
-    <release>1.7.2.3</release>
+    <release>1.7.2.4</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -52,7 +52,8 @@
       <version>1.6.5.55</version>
       <version>1.7.2.2</version>
       <version>1.7.2.3</version>
+      <version>1.7.2.4</version>
     </versions>
-    <lastUpdated>20210511022841</lastUpdated>
+    <lastUpdated>20210526033206</lastUpdated>
   </versioning>
 </metadata>
