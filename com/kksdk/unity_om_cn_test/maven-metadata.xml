@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_om_cn_test</artifactId>
   <versioning>
-    <release>1.7.3</release>
+    <release>1.7.4</release>
     <versions>
       <version>1.6.4</version>
       <version>1.6.5</version>
@@ -22,7 +22,8 @@
       <version>1.7.1</version>
       <version>1.7.2</version>
       <version>1.7.3</version>
+      <version>1.7.4</version>
     </versions>
-    <lastUpdated>20210607073018</lastUpdated>
+    <lastUpdated>20210607074437</lastUpdated>
   </versioning>
 </metadata>
