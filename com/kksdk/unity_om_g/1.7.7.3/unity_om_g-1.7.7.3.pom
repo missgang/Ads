@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>om_sdk</artifactId>
-      <version>1.7.5</version>
+      <version>1.7.6.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
