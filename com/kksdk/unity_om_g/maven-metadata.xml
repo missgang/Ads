@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_om_g</artifactId>
   <versioning>
-    <release>1.7.7.3</release>
+    <release>1.7.7.2</release>
     <versions>
       <version>1.5.1</version>
       <version>1.5.2</version>
@@ -42,8 +42,11 @@
       <version>1.7.7</version>
       <version>1.7.7.1</version>
       <version>1.7.7.2</version>
-      <version>1.7.7.3</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20210706070229</lastUpdated>
+=======
+    <lastUpdated>20210702024733</lastUpdated>
+>>>>>>> parent of 42ab5470 (unity_om_g)
   </versioning>
 </metadata>
