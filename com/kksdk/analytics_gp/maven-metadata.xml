@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>analytics_gp</artifactId>
   <versioning>
-    <release>1.4.0.8</release>
+    <release>1.4.0.9</release>
     <versions>
       <version>1.4.0</version>
       <version>1.4.0.1</version>
@@ -14,7 +14,8 @@
       <version>1.4.0.6</version>
       <version>1.4.0.7</version>
       <version>1.4.0.8</version>
+      <version>1.4.0.9</version>
     </versions>
-    <lastUpdated>20210723020011</lastUpdated>
+    <lastUpdated>20210727093136</lastUpdated>
   </versioning>
 </metadata>
