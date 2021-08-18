@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_cn</artifactId>
   <versioning>
-    <release>1.7.9.14</release>
+    <release>1.7.9</release>
     <versions>
       <version>1.5.1</version>
       <version>1.5.1.1</version>
@@ -78,7 +78,8 @@
       <version>1.7.5</version>
       <version>1.7.6</version>
       <version>1.7.9.14</version>
+      <version>1.7.9</version>
     </versions>
-    <lastUpdated>20210818025217</lastUpdated>
+    <lastUpdated>20210818030035</lastUpdated>
   </versioning>
 </metadata>
