@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_topon</artifactId>
   <versioning>
-    <release>1.7.7.6</release>
+    <release>1.7.8</release>
     <versions>
       <version>1.7.7</version>
       <version>1.7.7.1</version>
@@ -12,7 +12,8 @@
       <version>1.7.7.4</version>
       <version>1.7.7.5</version>
       <version>1.7.7.6</version>
+      <version>1.7.8</version>
     </versions>
-    <lastUpdated>20210827065808</lastUpdated>
+    <lastUpdated>20210907091057</lastUpdated>
   </versioning>
 </metadata>
