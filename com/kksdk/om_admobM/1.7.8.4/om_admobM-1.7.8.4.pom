@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.kksdk</groupId>
+      <groupId>OpenMediation</groupId>
       <artifactId>om_sdk</artifactId>
-      <version>1.7.8.2.1</version>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
