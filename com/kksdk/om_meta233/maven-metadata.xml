@@ -3,12 +3,13 @@
   <groupId>com.kksdk</groupId>
   <artifactId>om_meta233</artifactId>
   <versioning>
-    <release>1.7.8.2</release>
+    <release>1.7.8.3</release>
     <versions>
       <version>1.7.7</version>
       <version>1.7.8.1</version>
       <version>1.7.8.2</version>
+      <version>1.7.8.3</version>
     </versions>
-    <lastUpdated>20210927120042</lastUpdated>
+    <lastUpdated>20211206094454</lastUpdated>
   </versioning>
 </metadata>
