@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.qq.e.union</groupId>
       <artifactId>union</artifactId>
-      <version>4.431.1301</version>
+      <version>4.452.1322</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
