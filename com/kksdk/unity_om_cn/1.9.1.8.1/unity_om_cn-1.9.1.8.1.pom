@@ -10,13 +10,13 @@
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>om_sdk</artifactId>
-      <version>1.9.5.2</version>
+      <version>1.9.5.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.kksdk</groupId>
       <artifactId>analytics_cn</artifactId>
-      <version>1.4.8.4.1</version>
+      <version>1.4.8.9</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
