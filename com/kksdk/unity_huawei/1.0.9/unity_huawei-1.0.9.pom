@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.kksdk</groupId>
+  <artifactId>unity_huawei</artifactId>
+  <version>1.0.9</version>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.kksdk</groupId>
+      <artifactId>analytics_huawei</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.huawei.hms</groupId>
+      <artifactId>ads-lite</artifactId>
+      <version>13.4.53.300</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.huawei.hms</groupId>
+      <artifactId>ads-consent</artifactId>
+      <version>3.4.53.300</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
