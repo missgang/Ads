@@ -3,11 +3,12 @@
   <groupId>com.kksdk</groupId>
   <artifactId>unity_om_cn_test</artifactId>
   <versioning>
-    <release>1.8.4.6</release>
+    <release>2.0.5.2</release>
     <versions>
       <version>1.7.9.0</version>
       <version>1.8.4.6</version>
+      <version>2.0.5.2</version>
     </versions>
-    <lastUpdated>20211231121722</lastUpdated>
+    <lastUpdated>20221123045857</lastUpdated>
   </versioning>
 </metadata>
