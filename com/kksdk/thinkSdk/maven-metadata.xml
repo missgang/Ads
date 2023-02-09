@@ -3,7 +3,7 @@
   <groupId>com.kksdk</groupId>
   <artifactId>thinkSdk</artifactId>
   <versioning>
-    <release>1.0.8.8</release>
+    <release>1.0.8.8.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -22,7 +22,8 @@
       <version>1.0.8.6</version>
       <version>1.0.8.7</version>
       <version>1.0.8.8</version>
+      <version>1.0.8.8.1</version>
     </versions>
-    <lastUpdated>20221214040250</lastUpdated>
+    <lastUpdated>20230209035455</lastUpdated>
   </versioning>
 </metadata>
